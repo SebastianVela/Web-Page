@@ -6,8 +6,10 @@
   Bachelor of Science - BS, (2020 - 2022)
  </ol>
 
-* Pontificia Universidad Javeriana \
-  Bachelor of Arts - BA, Economics · (2017 - 2021)
+* Economics, Pontificia Universidad Javeriana, Bogotá D.C.
+<ol>
+  Bachelor of Arts - BA, (2017 - 2021)
+</ol>
 
 ### Markdown
 
