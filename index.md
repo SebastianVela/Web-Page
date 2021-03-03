@@ -1,7 +1,7 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> </h1>
 
 <h2> Education: </h2>
-* Statistics, Universidad Nacional de Colombia, Bogotá D.C. 
+* Statistics, Universidad Nacional de Colombia, Bogotá D.C. ;
   Bachelor of Science - BS, (2020 - 2022)
 
 
