@@ -1,12 +1,14 @@
 ## Jhon Sebastián Vela Salcedo
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="light" data-vanity="sebastianvela"><a class="LI-simple-link" href='https://co.linkedin.com/in/sebastianvela?trk=profile-badge'>Jhon Sebastián Vela Salcedo</a></div>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <h2> Education: </h2>
 * Universidad Nacional de Colombia
+
 Bachelor of Science - BS, Statistics · (2020 - 2022)
 
 * Pontificia Universidad Javeriana
+* 
 Bachelor of Arts - BA, Economics · (2017 - 2021)
 
 ### Markdown
