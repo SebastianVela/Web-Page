@@ -1,14 +1,14 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> </h1>
 
 <h2> Education: </h2>
-* Statistics, Universidad Nacional de Colombia, Bogotá D.C. ;
+<dl>
+<dt> * Statistics, Universidad Nacional de Colombia, Bogotá D.C. </dt>
   Bachelor of Science - BS, (2020 - 2022)
 
 
-* Economics, Pontificia Universidad Javeriana, Bogotá D.C.
-<ol>
+<dt> * Economics, Pontificia Universidad Javeriana, Bogotá D.C.</dt>
   Bachelor of Arts - BA, (2017 - 2021)
-</ol>
+</dl>
 
 ### Markdown
 
