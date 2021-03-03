@@ -1,6 +1,6 @@
 ## Jhon Sebastián Vela Salcedo
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+## <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <h2> Education: </h2>
 * Universidad Nacional de Colombia
