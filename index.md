@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Jhon Sebastián Vela Salcedo
 
-You can use the [editor on GitHub](https://github.com/SebastianVela/Web-Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="vertical" data-theme="light" data-vanity="sebastianvela"><a class="LI-simple-link" href='https://co.linkedin.com/in/sebastianvela?trk=profile-badge'>Jhon Sebastián Vela Salcedo</a></div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2> Education: </h2>
+* Universidad Nacional de Colombia
+Bachelor of Science - BS, Statistics · (2020 - 2022)
+
+* Pontificia Universidad Javeriana
+Bachelor of Arts - BA, Economics · (2017 - 2021)
 
 ### Markdown
 
